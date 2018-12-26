@@ -7,3 +7,5 @@ shox
 antonio      
 lillano
 luci
+echoware
+nightmare
